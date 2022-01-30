@@ -1,1 +1,1 @@
-# secopctl
+# `secopctl` - The CLI for decsecops
