@@ -1,1 +1,1 @@
-# `secopctl` - The CLI for decsecops
+# `secopctl` - The CLI for devsecops
