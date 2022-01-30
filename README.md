@@ -1,1 +1,1 @@
-# secctl
+# secopctl
