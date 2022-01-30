@@ -1,0 +1,11 @@
+# A simple example of secopConfig object:
+---
+apiVersion: secopctl.io/v1alpha1
+kind: secopConfig
+
+metadata:
+  name: gitlabconfig
+
+gitlab:
+  - url: https://gitlab.com/secopctl
+    repos: [test-java, test-go]
