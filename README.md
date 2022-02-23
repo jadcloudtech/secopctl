@@ -1,4 +1,4 @@
-# `secopctl` - The CLI for devsecops
+# `secopctl` - The CLI for integrating devsecops
 
 
 [![Build Status](https://github.com/jadcloudtech/secopctl/workflows/Lint%20and%20Test/badge.svg)](https://github.com/jadcloudtech/secopctl/actions?workflow=Lint%20and%20Test)
