@@ -5,4 +5,3 @@
 [![Sourcegraph](https://sourcegraph.com/github.com/jadcloudtech/secopctl/-/badge.svg)](https://sourcegraph.com/jadcloudtech/secopctl?badge)
 [![GoDoc](https://godoc.org/github.com/jadcloudtech/secopctl?status.svg)](https://godoc.org/github.com/xanzy/go-gitlab)
 [![Go Report Card](https://goreportcard.com/badge/jadcloudtech/secopctl)](https://goreportcard.com/report/jadcloudtech/secopctl)
-
